@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 6a29fa751ceabc04ba46434320e665c8
+timeCreated: 1454262057
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: assets-zapatos_0
+    21300002: assets-zapatos_1
+    21300004: assets-zapatos_2
+    21300006: assets-zapatos_3
+    21300008: assets-zapatos_4
+    21300010: assets-zapatos_5
+    21300012: assets-zapatos_6
+    21300014: assets-zapatos_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: assets-zapatos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: 61}
+        - {x: -98, y: 57}
+        - {x: -98, y: -81}
+        - {x: 124, y: -81}
+        - {x: 127, y: -79}
+        - {x: 127, y: 15}
+        - {x: 28, y: 61}
+    - name: assets-zapatos_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88, y: 61}
+        - {x: -115, y: 41}
+        - {x: -115, y: -29}
+        - {x: -37, y: -47}
+        - {x: 44, y: -52}
+        - {x: 130, y: -52}
+        - {x: 154, y: -37}
+        - {x: 154, y: 41}
+        - {x: 26, y: 61}
+    - name: assets-zapatos_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: 142}
+        - {x: 106, y: 85}
+        - {x: 28, y: 80}
+        - {x: -88, y: 61}
+        - {x: -88, y: -52}
+        - {x: 139, y: -52}
+        - {x: 161, y: -19}
+        - {x: 181, y: 79}
+        - {x: 181, y: 142}
+    - name: assets-zapatos_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 152}
+        - {x: 75, y: 139}
+        - {x: -47, y: 83}
+        - {x: -134, y: 53}
+        - {x: -134, y: -36}
+        - {x: -120, y: -52}
+        - {x: 80, y: -52}
+        - {x: 139, y: 65}
+        - {x: 139, y: 146}
+        - {x: 135, y: 152}
+    - name: assets-zapatos_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 78}
+        - {x: -79, y: 78}
+        - {x: -81, y: 77}
+        - {x: -98, y: 73}
+        - {x: -98, y: -60}
+        - {x: 125, y: -60}
+        - {x: 127, y: -56}
+        - {x: 127, y: 47}
+    - name: assets-zapatos_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 137, y: 31}
+        - {x: 41, y: 78}
+        - {x: -62, y: 78}
+        - {x: -123, y: 65}
+        - {x: -123, y: -25}
+        - {x: -65, y: -35}
+        - {x: 129, y: -35}
+        - {x: 144, y: -23}
+        - {x: 146, y: -17}
+        - {x: 146, y: 14}
+    - name: assets-zapatos_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 159}
+        - {x: 107, y: 144}
+        - {x: -100, y: 79}
+        - {x: -100, y: -23}
+        - {x: -87, y: -35}
+        - {x: 118, y: -35}
+        - {x: 136, y: 2}
+        - {x: 169, y: 103}
+        - {x: 169, y: 159}
+    - name: assets-zapatos_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 153, y: 169}
+        - {x: 114, y: 169}
+        - {x: 90, y: 158}
+        - {x: -117, y: 70}
+        - {x: -117, y: -20}
+        - {x: -106, y: -35}
+        - {x: 98, y: -35}
+        - {x: 108, y: -14}
+        - {x: 157, y: 108}
+        - {x: 157, y: 165}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

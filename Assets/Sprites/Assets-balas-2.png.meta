@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 24034402306325f459c5aa6feb302d1f
+timeCreated: 1454197290
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Assets-balas-2_0
+    21300002: Assets-balas-2_1
+    21300004: Assets-balas-2_2
+    21300006: Assets-balas-2_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Assets-balas-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: -129}
+        - {x: 127, y: -124}
+        - {x: 127, y: 121}
+        - {x: 124, y: 126}
+        - {x: 118, y: 134}
+        - {x: 107, y: 147}
+        - {x: 107, y: 183}
+        - {x: 126, y: 183}
+        - {x: 128, y: 185}
+        - {x: 127, y: 189}
+        - {x: 121, y: 197}
+        - {x: 112, y: 208}
+        - {x: 108, y: 214}
+        - {x: -104, y: 214}
+        - {x: -110, y: 208}
+        - {x: -116, y: 200}
+        - {x: -125, y: 187}
+        - {x: -125, y: 185}
+        - {x: -123, y: 183}
+        - {x: -105, y: 183}
+        - {x: -105, y: 145}
+        - {x: -113, y: 135}
+        - {x: -120, y: 126}
+        - {x: -123, y: 122}
+        - {x: -123, y: -126}
+        - {x: -121, y: -129}
+        - {x: -94, y: -144}
+        - {x: -85, y: -148}
+        - {x: 162, y: -148}
+        - {x: 164, y: -146}
+        - {x: 163, y: -143}
+        - {x: 140, y: -131}
+    - name: Assets-balas-2_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 105}
+        - {x: 80, y: 107}
+        - {x: 81, y: 124}
+        - {x: 68, y: 140}
+        - {x: 63, y: 144}
+        - {x: 63, y: 211}
+        - {x: 79, y: 210}
+        - {x: 81, y: 215}
+        - {x: 64, y: 235}
+        - {x: -101, y: 235}
+        - {x: -107, y: 229}
+        - {x: -111, y: 224}
+        - {x: -118, y: 217}
+        - {x: -118, y: 213}
+        - {x: -117, y: 210}
+        - {x: -102, y: 211}
+        - {x: -102, y: 143}
+        - {x: -107, y: 137}
+        - {x: -118, y: 123}
+        - {x: -118, y: 122}
+        - {x: -117, y: 121}
+        - {x: -117, y: -121}
+        - {x: -114, y: -125}
+        - {x: -96, y: -135}
+        - {x: -78, y: -144}
+        - {x: 115, y: -144}
+        - {x: 117, y: -142}
+        - {x: 116, y: -139}
+        - {x: 79, y: -119}
+    - name: Assets-balas-2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -135}
+        - {x: 133, y: -129}
+        - {x: 124, y: -124}
+        - {x: 120, y: -122}
+        - {x: 120, y: 120}
+        - {x: 111, y: 132}
+        - {x: 103, y: 143}
+        - {x: 99, y: 147}
+        - {x: 99, y: 208}
+        - {x: 118, y: 208}
+        - {x: 120, y: 210}
+        - {x: 119, y: 214}
+        - {x: 113, y: 222}
+        - {x: 104, y: 233}
+        - {x: 98, y: 240}
+        - {x: -119, y: 240}
+        - {x: -125, y: 234}
+        - {x: -131, y: 226}
+        - {x: -140, y: 213}
+        - {x: -141, y: 210}
+        - {x: -139, y: 208}
+        - {x: -119, y: 208}
+        - {x: -119, y: 147}
+        - {x: -123, y: 143}
+        - {x: -129, y: 135}
+        - {x: -135, y: 128}
+        - {x: -140, y: 120}
+        - {x: -140, y: -127}
+        - {x: -138, y: -129}
+        - {x: -128, y: -134}
+        - {x: -110, y: -144}
+        - {x: -101, y: -148}
+        - {x: 157, y: -148}
+        - {x: 159, y: -146}
+        - {x: 158, y: -143}
+        - {x: 153, y: -140}
+    - name: Assets-balas-2_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 75}
+        - {x: -84, y: 75}
+        - {x: -92, y: 64}
+        - {x: -92, y: 11}
+        - {x: 37, y: -70}
+        - {x: 68, y: -70}
+        - {x: 79, y: -58}
+        - {x: 79, y: 2}
+        - {x: 78, y: 5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

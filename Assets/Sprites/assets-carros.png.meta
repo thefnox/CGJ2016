@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 6a316eea39096314f89bf3866328996b
+timeCreated: 1454257224
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: assets-carros_0
+    21300002: assets-carros_1
+    21300004: assets-carros_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: assets-carros_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -176}
+        - {x: 39, y: -171}
+        - {x: 80, y: -173}
+        - {x: 107, y: -168}
+        - {x: 120, y: -159}
+        - {x: 138, y: -141}
+        - {x: 155, y: -132}
+        - {x: 202, y: -117}
+        - {x: 262, y: -97}
+        - {x: 278, y: -95}
+        - {x: 285, y: -93}
+        - {x: 291, y: -88}
+        - {x: 299, y: -71}
+        - {x: 302, y: -49}
+        - {x: 317, y: -39}
+        - {x: 325, y: -31}
+        - {x: 333, y: -15}
+        - {x: 335, y: 17}
+        - {x: 335, y: 57}
+        - {x: 328, y: 66}
+        - {x: 304, y: 68}
+        - {x: 281, y: 64}
+        - {x: 271, y: 70}
+        - {x: 257, y: 101}
+        - {x: 232, y: 126}
+        - {x: 217, y: 137}
+        - {x: 194, y: 147}
+        - {x: 182, y: 149}
+        - {x: 122, y: 156}
+        - {x: 70, y: 159}
+        - {x: 16, y: 159}
+        - {x: -23, y: 153}
+        - {x: -57, y: 145}
+        - {x: -74, y: 133}
+        - {x: -106, y: 84}
+        - {x: -123, y: 62}
+        - {x: -128, y: 61}
+        - {x: -159, y: 56}
+        - {x: -188, y: 53}
+        - {x: -226, y: 48}
+        - {x: -260, y: 40}
+        - {x: -284, y: 31}
+        - {x: -304, y: 21}
+        - {x: -321, y: 7}
+        - {x: -327, y: -2}
+        - {x: -333, y: -14}
+        - {x: -337, y: -29}
+        - {x: -337, y: -63}
+        - {x: -336, y: -66}
+        - {x: -330, y: -81}
+        - {x: -322, y: -93}
+        - {x: -316, y: -109}
+        - {x: -310, y: -118}
+        - {x: -288, y: -138}
+        - {x: -284, y: -142}
+        - {x: -305, y: -150}
+        - {x: -318, y: -158}
+        - {x: -320, y: -178}
+        - {x: -304, y: -187}
+        - {x: -280, y: -193}
+        - {x: -203, y: -201}
+        - {x: -167, y: -202}
+        - {x: -126, y: -204}
+        - {x: -77, y: -204}
+        - {x: -58, y: -201}
+        - {x: -24, y: -195}
+        - {x: -9, y: -191}
+    - name: assets-carros_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: -176}
+        - {x: 98, y: -163}
+        - {x: 224, y: -133}
+        - {x: 273, y: -127}
+        - {x: 283, y: -117}
+        - {x: 292, y: -94}
+        - {x: 291, y: -66}
+        - {x: 300, y: -51}
+        - {x: 304, y: -43}
+        - {x: 304, y: -15}
+        - {x: 301, y: 24}
+        - {x: 299, y: 40}
+        - {x: 292, y: 50}
+        - {x: 269, y: 64}
+        - {x: 258, y: 84}
+        - {x: 237, y: 111}
+        - {x: 224, y: 121}
+        - {x: 214, y: 127}
+        - {x: 188, y: 134}
+        - {x: 170, y: 135}
+        - {x: 153, y: 136}
+        - {x: 18, y: 136}
+        - {x: -12, y: 135}
+        - {x: -53, y: 128}
+        - {x: -79, y: 117}
+        - {x: -90, y: 109}
+        - {x: -116, y: 89}
+        - {x: -135, y: 72}
+        - {x: -139, y: 68}
+        - {x: -165, y: 68}
+        - {x: -168, y: 65}
+        - {x: -182, y: 41}
+        - {x: -196, y: 36}
+        - {x: -225, y: 23}
+        - {x: -240, y: 11}
+        - {x: -254, y: 3}
+        - {x: -267, y: -10}
+        - {x: -275, y: -23}
+        - {x: -279, y: -33}
+        - {x: -281, y: -40}
+        - {x: -284, y: -51}
+        - {x: -288, y: -72}
+        - {x: -288, y: -106}
+        - {x: -284, y: -114}
+        - {x: -281, y: -118}
+        - {x: -268, y: -128}
+        - {x: -246, y: -129}
+        - {x: -235, y: -150}
+        - {x: -228, y: -157}
+        - {x: -245, y: -162}
+        - {x: -260, y: -174}
+        - {x: -259, y: -182}
+        - {x: -256, y: -187}
+        - {x: -242, y: -193}
+        - {x: -213, y: -197}
+        - {x: -183, y: -200}
+        - {x: -155, y: -202}
+        - {x: -53, y: -202}
+        - {x: 0, y: -197}
+        - {x: 40, y: -190}
+        - {x: 73, y: -180}
+    - name: assets-carros_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -133}
+        - {x: 66, y: -132}
+        - {x: 79, y: -131}
+        - {x: 186, y: -118}
+        - {x: 346, y: -98}
+        - {x: 356, y: -97}
+        - {x: 362, y: -96}
+        - {x: 371, y: -92}
+        - {x: 381, y: -82}
+        - {x: 387, y: -72}
+        - {x: 392, y: -62}
+        - {x: 395, y: -47}
+        - {x: 395, y: -13}
+        - {x: 394, y: -6}
+        - {x: 393, y: 14}
+        - {x: 392, y: 65}
+        - {x: 384, y: 70}
+        - {x: 355, y: 83}
+        - {x: 337, y: 86}
+        - {x: 272, y: 106}
+        - {x: 255, y: 111}
+        - {x: 230, y: 119}
+        - {x: 193, y: 128}
+        - {x: 157, y: 133}
+        - {x: 136, y: 135}
+        - {x: 62, y: 135}
+        - {x: 18, y: 133}
+        - {x: -15, y: 131}
+        - {x: -48, y: 128}
+        - {x: -83, y: 123}
+        - {x: -100, y: 119}
+        - {x: -113, y: 115}
+        - {x: -183, y: 86}
+        - {x: -188, y: 83}
+        - {x: -210, y: 85}
+        - {x: -232, y: 81}
+        - {x: -239, y: 77}
+        - {x: -249, y: 62}
+        - {x: -271, y: 59}
+        - {x: -287, y: 56}
+        - {x: -300, y: 52}
+        - {x: -323, y: 40}
+        - {x: -342, y: 25}
+        - {x: -362, y: 4}
+        - {x: -370, y: -8}
+        - {x: -377, y: -26}
+        - {x: -371, y: -35}
+        - {x: -371, y: -46}
+        - {x: -370, y: -83}
+        - {x: -401, y: -86}
+        - {x: -434, y: -94}
+        - {x: -444, y: -101}
+        - {x: -444, y: -108}
+        - {x: -441, y: -112}
+        - {x: -427, y: -119}
+        - {x: -403, y: -124}
+        - {x: -375, y: -127}
+        - {x: -345, y: -130}
+        - {x: -332, y: -131}
+        - {x: -316, y: -132}
+        - {x: -297, y: -133}
+        - {x: -272, y: -134}
+        - {x: -236, y: -135}
+        - {x: -148, y: -135}
+        - {x: -147, y: -136}
+        - {x: -125, y: -136}
+        - {x: -124, y: -135}
+        - {x: -26, y: -135}
+        - {x: 16, y: -134}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

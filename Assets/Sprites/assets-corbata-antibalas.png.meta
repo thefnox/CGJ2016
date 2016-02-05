@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: c17097160cffe9745b11d3e41a310bff
+timeCreated: 1454220858
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: assets-corbata-antibalas_0
+    21300002: assets-corbata-antibalas_1
+    21300004: assets-corbata-antibalas_2
+    21300006: assets-corbata-antibalas_3
+    21300008: assets-corbata-antibalas_4
+    21300010: assets-corbata-antibalas_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: assets-corbata-antibalas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 187, y: -161}
+        - {x: 187, y: -154}
+        - {x: 159, y: -87}
+        - {x: -50, y: 7}
+        - {x: -1, y: 65}
+        - {x: 0, y: 114}
+        - {x: 46, y: 168}
+        - {x: 48, y: 175}
+        - {x: -3, y: 198}
+        - {x: -158, y: 198}
+        - {x: -200, y: 180}
+        - {x: -200, y: 166}
+        - {x: -164, y: 114}
+        - {x: -153, y: 36}
+        - {x: -104, y: -25}
+        - {x: -106, y: -140}
+        - {x: -106, y: -147}
+        - {x: -89, y: -183}
+        - {x: -83, y: -186}
+        - {x: -58, y: -150}
+        - {x: -31, y: -109}
+        - {x: 11, y: -149}
+        - {x: 4, y: -197}
+        - {x: 9, y: -198}
+        - {x: 47, y: -198}
+        - {x: 83, y: -193}
+        - {x: 98, y: -198}
+        - {x: 108, y: -198}
+    - name: assets-corbata-antibalas_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149, y: -24}
+        - {x: 149, y: 19}
+        - {x: 137, y: 56}
+        - {x: 82, y: 25}
+        - {x: 30, y: -37}
+        - {x: 48, y: 60}
+        - {x: 99, y: 167}
+        - {x: 76, y: 190}
+        - {x: -126, y: 190}
+        - {x: -152, y: 186}
+        - {x: -152, y: 151}
+        - {x: -135, y: 70}
+        - {x: -56, y: -7}
+        - {x: -57, y: -155}
+        - {x: -41, y: -190}
+        - {x: -35, y: -190}
+        - {x: -11, y: -162}
+        - {x: 16, y: -76}
+        - {x: 95, y: -77}
+    - name: assets-corbata-antibalas_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: 65}
+        - {x: 125, y: 160}
+        - {x: 125, y: 171}
+        - {x: 115, y: 174}
+        - {x: 78, y: 194}
+        - {x: -74, y: 194}
+        - {x: -119, y: 172}
+        - {x: -119, y: 162}
+        - {x: -89, y: 79}
+        - {x: -50, y: 25}
+        - {x: -112, y: -48}
+        - {x: -55, y: -124}
+        - {x: -41, y: -127}
+        - {x: 8, y: -195}
+        - {x: 19, y: -195}
+        - {x: 44, y: -156}
+        - {x: 31, y: -65}
+        - {x: 79, y: -31}
+    - name: assets-corbata-antibalas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: 98}
+        - {x: 105, y: 180}
+        - {x: 68, y: 220}
+        - {x: -9, y: 220}
+        - {x: -97, y: 128}
+        - {x: -137, y: 106}
+        - {x: -139, y: 102}
+        - {x: -139, y: 96}
+        - {x: -89, y: 3}
+        - {x: -28, y: -35}
+        - {x: -27, y: -193}
+        - {x: -12, y: -229}
+        - {x: -10, y: -230}
+        - {x: -5, y: -230}
+        - {x: 20, y: -200}
+        - {x: 7, y: -37}
+        - {x: 65, y: 28}
+    - name: assets-corbata-antibalas_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 99}
+        - {x: 43, y: 109}
+        - {x: 115, y: 193}
+        - {x: 115, y: 202}
+        - {x: 113, y: 206}
+        - {x: 71, y: 209}
+        - {x: 70, y: 224}
+        - {x: 68, y: 226}
+        - {x: -84, y: 226}
+        - {x: -86, y: 210}
+        - {x: -112, y: 206}
+        - {x: -129, y: 202}
+        - {x: -129, y: 196}
+        - {x: -127, y: 191}
+        - {x: -70, y: 127}
+        - {x: -55, y: 103}
+        - {x: -38, y: 44}
+        - {x: -86, y: -200}
+        - {x: -29, y: -229}
+        - {x: -8, y: -237}
+        - {x: 0, y: -237}
+        - {x: 77, y: -200}
+        - {x: 33, y: 23}
+        - {x: 26, y: 52}
+    - name: assets-corbata-antibalas_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 31}
+        - {x: 55, y: 28}
+        - {x: 87, y: 55}
+        - {x: 98, y: 76}
+        - {x: 98, y: 92}
+        - {x: 84, y: 143}
+        - {x: 81, y: 224}
+        - {x: 79, y: 226}
+        - {x: -72, y: 226}
+        - {x: -74, y: 224}
+        - {x: -76, y: 146}
+        - {x: -90, y: 93}
+        - {x: -90, y: 78}
+        - {x: -81, y: 57}
+        - {x: -49, y: 28}
+        - {x: -40, y: 31}
+        - {x: -32, y: 68}
+        - {x: -31, y: 36}
+        - {x: -64, y: -125}
+        - {x: -79, y: -200}
+        - {x: -1, y: -237}
+        - {x: 10, y: -237}
+        - {x: 85, y: -200}
+        - {x: 42, y: 20}
+        - {x: 37, y: 62}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

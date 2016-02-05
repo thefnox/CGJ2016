@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 1d704f0862e966447977f24a2649c8e5
+timeCreated: 1454221142
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: assets-corbatas-seleccion_0
+    21300002: assets-corbatas-seleccion_1
+    21300004: assets-corbatas-seleccion_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: assets-corbatas-seleccion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: -56}
+        - {x: 82, y: 16}
+        - {x: 81, y: 53}
+        - {x: 79, y: 125}
+        - {x: 78, y: 162}
+        - {x: 77, y: 163}
+        - {x: 76, y: 234}
+        - {x: 75, y: 252}
+        - {x: 73, y: 254}
+        - {x: -74, y: 254}
+        - {x: -77, y: 251}
+        - {x: -78, y: 215}
+        - {x: -79, y: 178}
+        - {x: -81, y: 106}
+        - {x: -82, y: 69}
+        - {x: -84, y: -3}
+        - {x: -84, y: -39}
+        - {x: -85, y: -40}
+        - {x: -88, y: -148}
+        - {x: -88, y: -162}
+        - {x: -87, y: -163}
+        - {x: -87, y: -252}
+        - {x: -85, y: -254}
+        - {x: 84, y: -254}
+        - {x: 86, y: -252}
+        - {x: 86, y: -129}
+        - {x: 85, y: -93}
+    - name: assets-corbatas-seleccion_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: -139}
+        - {x: 86, y: -102}
+        - {x: 84, y: -30}
+        - {x: 83, y: 7}
+        - {x: 81, y: 79}
+        - {x: 80, y: 116}
+        - {x: 78, y: 188}
+        - {x: 77, y: 225}
+        - {x: 76, y: 252}
+        - {x: 74, y: 254}
+        - {x: -74, y: 254}
+        - {x: -76, y: 252}
+        - {x: -77, y: 225}
+        - {x: -78, y: 188}
+        - {x: -80, y: 116}
+        - {x: -81, y: 79}
+        - {x: -83, y: 7}
+        - {x: -84, y: -30}
+        - {x: -86, y: -102}
+        - {x: -86, y: -138}
+        - {x: -87, y: -139}
+        - {x: -87, y: -252}
+        - {x: -85, y: -254}
+        - {x: 84, y: -254}
+        - {x: 86, y: -252}
+        - {x: 86, y: -163}
+        - {x: 87, y: -162}
+    - name: assets-corbatas-seleccion_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: -149}
+        - {x: 85, y: -112}
+        - {x: 84, y: -87}
+        - {x: 90, y: -83}
+        - {x: 100, y: -63}
+        - {x: 100, y: -30}
+        - {x: 96, y: -7}
+        - {x: 93, y: 3}
+        - {x: 85, y: 49}
+        - {x: 80, y: 70}
+        - {x: 77, y: 178}
+        - {x: 75, y: 251}
+        - {x: 72, y: 254}
+        - {x: -75, y: 254}
+        - {x: -77, y: 252}
+        - {x: -78, y: 234}
+        - {x: -80, y: 162}
+        - {x: -83, y: 53}
+        - {x: -88, y: 26}
+        - {x: -99, y: -31}
+        - {x: -99, y: -57}
+        - {x: -97, y: -64}
+        - {x: -91, y: -78}
+        - {x: -87, y: -93}
+        - {x: -88, y: -129}
+        - {x: -88, y: -252}
+        - {x: -86, y: -254}
+        - {x: 83, y: -254}
+        - {x: 85, y: -252}
+        - {x: 85, y: -163}
+        - {x: 86, y: -162}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
